@@ -30,11 +30,6 @@ ${requestScope.besked}
 </form>
 
 
-
-
-
-
-
 <br>
 <br>
 <br>
